@@ -255,3 +255,5 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Sam Marine](https://github.com/LebombJames)
 - [Oliver Collins](https://github.com/OliverACollins)
 - [Eva Aktar](https://github.com/evaktar)
+- [Roisin Sharma](https://github.com/sh-roisin)
+
